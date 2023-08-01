@@ -7,7 +7,7 @@ const CardProject = (props: {title: string, desc: string, link: string}) => {
           <p>{props.desc}</p>
         </div>
         <div className="btn">
-          <a href={props.link}>Preview</a>
+          <a href={props.link}>Visualizar</a>
         </div>
       </div>
   )

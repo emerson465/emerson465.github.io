@@ -22,7 +22,7 @@ const About = () => {
           <img src={photo} width={'80%'} />
         </div>
       </div>
-      <div className="container">
+      <div className="second container">
         <div className="second-left half">
           <h2>CONHECIMENTO</h2>
           <ul>

@@ -1,5 +1,7 @@
 import { Link } from 'react-router-dom'
 
+import './NavBar.css'
+
 const NavBar = () => {
     return (
         <div>
@@ -7,7 +9,7 @@ const NavBar = () => {
                 <div className='navBar'>
                     <div>
                             <Link className='logo' to='/'>
-                                Emerson
+                                EMERSON
                             </Link>
                     </div>
                     <nav>
